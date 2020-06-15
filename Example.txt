@@ -1,0 +1,649 @@
+[General]
+On=On
+Off=Off
+Save=Save
+Load=Load
+Saving=Saving...
+Loading=Loading...
+Loading_Clean=Loading
+Cancel=Cancel
+Close=Close
+Delete=Delete
+Rename=Rename
+Overwrite=Overwrite
+Main_Menu=Main Menu
+Exit_To_Main_Menu=Exit To Main Menu
+New_Marker=%text% (New)
+
+[Errors]
+Blueprint_Load_Failed=Could not load blueprint from %file%
+Quicksave_Load_Failed=Could not load quicksave from %file%
+
+[Menu Names]
+Quicksaves=Quicksaves
+Blueprints=Blueprints
+Save_Blueprint=Save Blueprint
+Load_Blueprint=Load Blueprint
+Create_Quicksave=Create Quicksave
+Load_Quicksave=Load Quicksave
+Unnamed_Blueprint=Unnamed Blueprint
+Unnamed_Quicksave=Unnamed Quicksave
+Exists_Blueprint=A blueprint with this name already exists
+Exists_Quicksave=A quicksave with this name already exists
+Overwrite_Blueprint=Overwrite save
+Overwrite_Quicksave=Overwrite save
+New_Blueprint=New save
+New_Quicksave=New save
+
+[Startup]
+Early_Supporter_Message=As an early supporter, you have free access to:
+Early_Supporter_Message=
+Early_Supporter_Message= - Parts Expansion
+Early_Supporter_Message= - Skins Expansion
+Early_Supporter_Message= - Planets Expansion
+Early_Supporter_Message=
+Early_Supporter_Message=Thank you for your support!
+Welcome_Message=Welcome to 1.5.
+Welcome_Message=
+Welcome_Message=All of your 1.4 saves have automatically been converted to 1.5 saves
+
+[Main Menu]
+Update_1_5=1.5 - Foundation Update
+Play=Play
+Video_Tutorials=Video Tutorials
+Video_Orbit=Orbit Tutorial
+Video_Moon=Moon Tutorial
+Video_Dock=Docking Tutorial
+Community=Community
+Community_Youtube=Youtube
+Community_Discord=Discord
+Community_Reddit=Reddit
+Build_Rocket=Build Rocket
+Resume_Game=Resume Game
+Settings=Settings
+Patch_Notes=Patch Notes
+Roadmap=Roadmap
+Credits=Credits
+Report_A_Bug=Report a bug
+
+[Purchasing]
+Parts_Expansion=Parts Expansion
+Skins_Expansion=Skins Expansion
+Planets_Expansion=Planets Expansion
+Expansion_Bundle=Expansion Bundle
+More_Parts=More Parts...
+More_Skins=More Skins...
+Why_Buy=Your support helps us improve the game!
+Buy_Product=Buy %product% %price%
+Restore=Restore
+Purchase_Thanks_Msg=Purchased: %product%
+Purchase_Thanks_Msg=
+Purchase_Thanks_Msg=Thanks for your purchase
+Purchase_Thanks_Msg=Now go and explore the stars!
+Restore_Text=Purchases on android are restored automatically on startup
+Restore_Text=
+Restore_Text=- Check that you are logged into the google play account you bought it with (Check that purchase appears in google play purchase history)
+Restore_Text=
+Restore_Text=- Check the purchase button, if price is not shown, it means the game failed to connect to the store. Check your internet connection and restart the game
+Restore_Text=
+Restore_Text=If none of the above work, contact me at: stef.morojna1997@gmail.com
+Restore_Text=
+Restore_Text=You can also try waiting, the purchase sometimes restores itself after a few hours
+Owned=%product% (Owned)
+FAQ=FAQ
+Purchase_FAQ_Message=<color=grey>Are purchases retained between updates?</color>
+Purchase_FAQ_Message=Yes, of course
+Purchase_FAQ_Message=
+Purchase_FAQ_Message=
+Purchase_FAQ_Message=<color=grey>Is it possible to lose purchases?</color>
+Purchase_FAQ_Message=Your purchases are permanently stored on your store account, and are not lost if you reinstall or change phones
+Purchase_FAQ_Message=
+Purchase_FAQ_Message=
+Purchase_FAQ_Message=<color=grey>Do you offer refunds?</color>
+Purchase_FAQ_Message=Yes, absolutely, as long as it's requested in a reasonable timeframe, we will refund, no questions asked
+PartsExpansion_Tanks=Large variety of fuel tanks!
+PartsExpansion_Engines=Heavy lift engines!
+PartsExpansion_Parts=Parts of all shapes and sizes!
+PartsExpansion_Build=Large build space to bring
+PartsExpansion_Build=your creations to life!
+SkinsExpansion_Tanks=Paint your parts in a diverse variety of skins!
+SkinsExpansion_Interstages=Color everything from interstages
+SkinsExpansion_Nosecones=To nosecones
+SkinsExpansion_Fairings=And even fairings
+PlanetsExpansion_Jupiter=Explore Jupiter and its four moons!
+PlanetsExpansion_Callisto=From the heavily cratered surface of Callisto!
+PlanetsExpansion_Europa=To the vast ice flats of Europa!
+PlanetsExpansion_Conclusion=Distant worlds are waiting for you
+PlanetsExpansion_Conclusion=to explore them!
+ExpansionBundle_Sandbox=Bonus
+ExpansionBundle_Sandbox=Sandbox Mode
+ExpansionBundle_Infinite_Fuel=Infinite Fuel
+ExpansionBundle_No_Atmospheric_Drag=No Atmospheric Drag
+ExpansionBundle_Unbreakable_Parts=Unbreakable Parts
+ExpansionBundle_No_Gravity=No Gravity
+
+[Settings]
+Music_Name=Music:
+Sound_Name=Sound:
+Screen_Rotation_Name=Screen Rotation:
+Screen_Rotation_State=%value%
+FPS_Name=Fps:
+Language_Name=Language:
+
+[Sandbox]
+Infinite_Fuel_Name=Infinite Fuel:
+No_Atmospheric_Drag_Name=No Atmospheric Drag:
+Unbreakable_Parts_Name=Unbreakable Parts:
+No_Gravity_Name=No Gravity:
+Sandbox_State=%value%
+Infinite_Fuel=Infinite Fuel: %value%
+No_Atmospheric_Drag=No Atmospheric Drag: %value%
+Unbreakable_Parts=Unbreakable Parts: %value%
+No_Gravity=No Gravity: %value%
+
+[World Menu]
+Create_New_World=Create World
+Default_World_Name=My World
+World_Name=World Name
+World_Delete_Confirmation=Delete world?
+Select_Solar_System=Select world's solar system
+Cannot_Find_Solar_System=Solar system could not be found:
+Cannot_Find_Solar_System=%system%
+Cannot_Find_Solar_System=
+Cannot_Find_Solar_System=Select a solar system
+Default_Solar_System=Solar System (Default)
+Custom_Solar_System=%name% (Custom)
+
+[Build]
+Build_New_Rocket=Build New Rocket
+Resume_Build=Resume Build
+Save_Build=Save Build?
+Launch=Launch
+Clear=Clear
+Cannot_Save_Empty_Build=Cannot save an empty blueprint
+
+[Pick List Names]
+Basic_Parts=Basics
+Six_Wide_Parts=6 Wide
+Eight_Wide_Parts=8 Wide
+Ten_Wide_Parts=10 Wide
+Twelve_Wide_Parts=12 Wide
+Aerodynamics_Parts=Aerodynamics
+Engine_Parts=Engines
+Boosters_Parts=Boosters
+Fairings_Parts=Fairings
+Structural_Parts=Structural
+Terrain_Parts=Terrain
+Docking_Parts=Docking
+Other_Parts=Other
+
+[Mission]
+Revert_To_Launch=Revert To Launch
+Revert_To_Launch_Warning=Revert to launch?
+Revert_To_Launch_Warning=
+Revert_To_Launch_Warning=This will revert progress since last launch
+Revert_To_Build=Revert To Build
+Revert_To_Build_Warning=Revert to build?
+Revert_To_Build_Warning=
+Revert_To_Build_Warning=This will revert progress since last launch
+End_Mission=End Mission
+Mission_Achievements=Mission Achievements:
+Clear_Debris=Clear Debris
+Clear_Debris_Warning=Clear debris?
+Clear_Debris_Warning=
+Clear_Debris_Warning=This will remove all uncontrollable rockets
+
+[Map]
+Map=Map
+Rocket=Rocket
+Navigate_To=Navigate To
+End_Navigation=End Navigation
+Focus=Focus
+Unfocus=Unfocus
+Switch_To=Switch To
+Escape=Escape
+Encounter=Encounter
+Transfer=Transfer
+
+[Game]
+Throttle_State=%value%
+Timewarp_Speed=Time Acceleration %speed%x
+Height_Terrain_Vertical=Height (Terrain):
+Height_Terrain_Vertical=
+Height_Terrain_Vertical=%height%
+Height_Vertical=Height:
+Height_Vertical=
+Height_Vertical=%height%
+Velocity_Vertical=Velocity:
+Velocity_Vertical=
+Velocity_Vertical=%speed%
+Height_Terrain_Horizontal=Height (Terrain): %height%
+Height_Horizontal=Height: %height%
+Velocity_Horizontal=Velocity: %speed%
+Stage=Stage
+
+/// %type{x}% refers to [Legacy{x}]
+[Legacy]
+Conversion_Success=Detected a 1.4 %type{1}% and converted it to %version% format
+Conversion_Failed=Detected a 1.4 %type{1}% and converted it to %version% format
+Conversion_Failed=
+Conversion_Failed=Conversion failed:
+Conversion_Failed=%reason%
+
+[Files]
+Blueprint=Blueprint
+Planet=Planets
+Quicksave=Quicksave
+
+[Files{1}]
+Blueprint=blueprint
+Planet=planet
+Quicksave=quicksave
+
+[Files{2}]
+Blueprint=blueprints
+Planet=planets
+Quicksave=quicksaves
+
+[Menus]
+Close_Game=Close game?
+Update_Available=A new update is available!
+Update_Available=
+Update_Available=Current version: %old%
+Update_Available=Latest version: %new%
+Update=Update
+Rate_Title=Would you like to rate or review the game?
+Rate_Title=
+Rate_Title=We deeply care about the quality of our game, your feedback helps us improve it
+Rate_Title=
+Rate_Title=Even after thousands of reviews, we still read a large number of them!
+Rate=Rate
+
+[Control Messages]
+No_Control=No control
+
+/// %part{x}% refers to [Part Names{x}]
+[Timewarp Messages]
+Cannot_Timewarp_Below=Cannot time warp below %height%
+Cannot_Timewarp_While_Moving_On_Surface=Cannot time warp while moving on the surface
+Cannot_Timewarp_While_Accelerating=Cannot time warp while under acceleration
+Cannot_Use_Part_While_Timewarping=Cannot use %part{1}% while timewarping
+Cannot_Throttle_While_Timewarping=Cannot throttle while timewarping
+Cannot_Turn_While_Timewarping=Cannot turn while timewarping
+
+[Parachute Messages]
+Cannot_Deploy_Parachute_In_Vacuum=Cannot deploy parachute in a vacuum
+Cannot_Deploy_Parachute_Above=Cannot deploy parachute above: %height%
+Cannot_Fully_Deploy_Above=Cannot fully deploy parachute above: %height%
+Cannot_Deploy_Parachute_While_Faster=Cannot deploy parachute when going faster than: %velocity%
+Cannot_Deploy_Parachute_While_Not_Moving=Cannot deploy parachute while not moving
+Parachute_Half_Deployed=Parachute half deployed
+Parachute_Fully_Deployed=Parachute fully deployed
+Parachute_Cut=Parachute cut
+
+[Units]
+TWR=Thrust / Weight: %TWR%
+Mass=Mass: %Mass%t
+Thrust=Thrust: %Thrust%t
+Efficiency=Efficiency: %ISP% Isp
+Mass_Unit=t
+Meter_Unit=m
+Km_Unit=km
+Meter_Per_Second_Unit=m/s
+
+[Timestamps]
+Second_Short=%amount%s
+Minute_Short=%amount%m
+Hour_Short=%amount%h
+Day_Short=%amount%d
+Last_Played=Last played: %days% %hours% %minutes% ago
+Just_Played=Last played: A moment ago
+Time_Played=Playtime: %days% %hours% %minutes%
+
+[Resource Types]
+Solid_Fuel=Solid Fuel
+Fuel=Fuel
+
+[Resource Types{1}]
+Solid_Fuel=solid fuel
+Fuel=fuel
+
+[Part Names]
+Capsule_Name=Capsule
+Probe_Name=Probe
+Parachute_Name=Parachute
+Kolibri_Engine=Kolibri Engine
+Hawk_Engine_Name=Hawk Engine
+Valiant_Engine_Name=Valiant Engine
+Titan_Engine_Name=Titan Engine
+Frontier_Engine_Name=Frontier Engine
+Ion_Engine_Name=Ion Engine
+RCS_Thruster_Name=RCS Thruster
+Fuel_Tank_Name=Fuel Tank
+Separator_Name=Separator
+Side_Separator_Name=Side Separator
+Structural_Part_Name=Structural Part
+Landing_Leg_Name=Landing Leg
+Aerodynamic_Nose_Cone_Name=Aerodynamic Nose Cone
+Aerodynamic_Fuselage_Name=Aerodynamic Fuselage
+Fairing_Name=Fairing
+Battery_Name=Battery
+Solar_Panel_Name=Solar Panel
+RTG_Name=RTG
+Rover_Wheel_Name=Rover Wheel
+Docking_Port_Name=Docking Port
+
+[Part Names{1}]
+Capsule_Name=capsule
+Probe_Name=probe
+Parachute_Name=parachute
+Kolibri_Engine=kolibri engine
+Hawk_Engine_Name=hawk engine
+Valiant_Engine_Name=valiant engine
+Titan_Engine_Name=titan engine
+Frontier_Engine_Name=frontier engine
+Ion_Engine_Name=ion engine
+RCS_Thruster_Name=rcs thruster
+Fuel_Tank_Name=fuel tank
+Separator_Name=separator
+Side_Separator_Name=side separator
+Structural_Part_Name=structural part
+Landing_Leg_Name=landing leg
+Aerodynamic_Nose_Cone_Name=aerodynamic nose cone
+Aerodynamic_Fuselage_Name=aerodynamic fuselage
+Fairing_Name=fairing
+Battery_Name=battery
+Solar_Panel_Name=solar panel
+RTG_Name=rtg
+Rover_Wheel_Name=rover wheel
+Docking_Port_Name=docking port
+
+[Part Descriptions]
+Capsule_Description=A small capsule, carrying one astronaut
+Probe_Description=An unmanned probe, used for one way missions
+Parachute_Description=A parachute used for landing
+Fuel_Tank_Description=A fuel tank carrying liquid fuel and liquid oxygen
+Separator_Description=Vertical separator, used to detach empty stages
+Side_Separator_Description=Horizontal separator, used for detaching side boosters
+Landing_Leg_Description=An extendable and retractable leg used for landing on the surface of moons and planets
+Structural_Part_Description=A light and strong structural part
+Hawk_Engine_Description=A high thrust - lower efficiency engine, normally used in the first stage of a rocket
+Titan_Engine_Description=A high thrust - lower efficiency engine, normally used in the first stage of a rocket
+Valiant_Engine_Description=High efficiency, low thrust. Used in space when high thrust isn't a priority
+Frontier_Engine_Description=High efficiency, low thrust. Used in space when high thrust isn't a priority
+Kolibri_Engine_Description=A tiny engine used for landers
+Ion_Engine_Description=A low thrust engine with an incredibly high efficiency
+RCS_Thruster_Description=A set of small directional thrusters, used for docking
+Aerodynamic_Nose_Cone_Description=An aerodynamic nose cone, used to improve the aerodynamics of side boosters
+Aerodynamic_Fuselage_Description=An aerodynamic fuselage, used to cover engines
+Fairing_Description=An aerodynamic fairing, used to encapsulate payloads
+Battery_Description=A battery used to store electric power
+Solar_Panel_Description=A solar panel that generates power when extended
+RTG_Description=Radioisotope thermoelectric generator or RTG
+Rover_Wheel_Description=Rover wheel used to drive on the surface of planets
+Docking_Port_Description=A docking port which can be used to connect two vehicles together
+
+/// %resource{x}% refers to [Resource Types{x}]
+[Modules]
+Torque_Module_Torque=Torque: %Force%kN
+Separation_Force=Separation force: %Force%kN
+Flow_Module_Description_Consume=%resource{0}% consumption: %rate%
+Flow_Module_Description_Generate=%resource{0}% generation: %rate%
+Flow_Module_Resource_Missing=No %resource{1}% source
+Flow_Module_Resource_Depleted=Out of %resource{1}%
+Resource_Module_Description=%resource{0}%: %amount%%unit%
+Engine_Module_State=Engine %state%
+RCS_Module_State=RCS %state%
+Wheel_Module_State=Rover wheel %state%
+
+[Planets]
+Sun=Sun
+Mercury=Mercury
+Venus=Venus
+Earth=Earth
+Moon=Moon
+Mars=Mars
+Phobos=Phobos
+Deimos=Deimos
+Jupiter=Jupiter
+Europa=Europa
+Ganymede=Ganymede
+Io=Io
+Callisto=Callisto
+
+[Planets{1}]
+Sun=the Sun
+Earth=the Earth
+Moon=the Moon
+Jupiter=Jupiter
+
+[Planets{2}]
+Sun=The Sun
+Earth=The Earth
+Moon=The Moon
+Jupiter=Jupiter
+
+[Planets{3}]
+Earth=Earth's
+Jupiter=Jupiter's
+
+/// %planet{x}% refers to [Planets{x}]
+[Achievements]
+Reached_Low_Orbit=Reached low %planet{0}% orbit
+Reached_High_Orbit=Reached high %planet{0}% orbit
+Descend_Low_Orbit=Descended to low %planet{0}% orbit
+Capture_Low_Orbit=Captured into low %planet{0}% orbit
+Capture_High_Orbit=Captured into high %planet{0}% orbit
+Entered_Lower_Atmosphere=Entered %planet{3}% lower atmosphere
+Entered_Upper_Atmosphere=Entered %planet{3}% upper atmosphere
+Left_Lower_Atmosphere=Reached %planet{3}% upper atmosphere
+Left_Upper_Atmosphere=Escaped %planet{3}% atmosphere
+Landed=Landed on the surface of %planet{1}%
+Entered_SOI=Entered the sphere of influence of %planet{1}%
+Escaped_SOI=Escaped the sphere of influence of %planet{1}%
+Docked_Suborbital=Docket in a suborbital trajectory of %planet{1}%
+Docked_Orbit_Low=Docked in low %planet{0}% orbit
+Docked_Orbit_Transfer=Docket in a transfer orbit of %planet{1}%
+Docked_Orbit_High=Docked in high %planet{0}% orbit
+Docked_Escape=Docked on an escape trajectory of %planet{1}%
+Docked_Surface=Docked on the surface of %planet{1}%
+Crashed_Into_Terrain=Crashed into the surface of %planet{1}%
+Recover_Home=Safely returned to %planet{1}%
+Recover_Landed=Ended mission on the surface of %planet{1}%
+Recover_Space=Ended mission in space around %planet{1}%
+
+[Patch Notes]
+Patch_Notes_Content=
+Patch_Notes_Content=1.5 - FOUNDATION UPDATE
+Patch_Notes_Content=
+Patch_Notes_Content=
+Patch_Notes_Content=WORLDS:<color=grey>
+Patch_Notes_Content=- Added a new worlds system
+Patch_Notes_Content=- In the future, worlds will allow you to have separate sandbox and career worlds
+Patch_Notes_Content=- Each world can have its own set of custom planets
+Patch_Notes_Content=</color>
+Patch_Notes_Content=
+Patch_Notes_Content=LEGACY:<color=grey>
+Patch_Notes_Content=- Added a legacy system that automatically converts 1.4 saves to 1.5 saves
+Patch_Notes_Content=- Works with blueprints, quicksaves and custom planets
+Patch_Notes_Content=</color>
+Patch_Notes_Content=
+Patch_Notes_Content=BUILD:<color=grey>
+Patch_Notes_Content=- Increased zoom distance
+Patch_Notes_Content=- Increased build area height
+Patch_Notes_Content=- Added build persistent
+Patch_Notes_Content=- Added symmetry mode
+Patch_Notes_Content=- New build grid texture
+Patch_Notes_Content=- Improved part adaptation system, parts now adapt to a more wide variety of sizes, newly placed part now adapts to existing ones
+Patch_Notes_Content=</color>
+Patch_Notes_Content=
+Patch_Notes_Content=SELECT TOOL:<color=grey>
+Patch_Notes_Content=- Click on parts to select
+Patch_Notes_Content=- Move multiple parts
+Patch_Notes_Content=- Rotate/flip multiple parts
+Patch_Notes_Content=- Change skins of multiple parts
+Patch_Notes_Content=- Duplicate selected parts
+Patch_Notes_Content=- Menus are shown only when parts are selected, freeing up screenspace
+Patch_Notes_Content=</color>
+Patch_Notes_Content=
+Patch_Notes_Content=PARTS:<color=grey>
+Patch_Notes_Content=- Added big landing legs
+Patch_Notes_Content=- Added 6 and 8 wide nosecones
+Patch_Notes_Content=- Added 4x6, 6x6, 8x6, 10x6 and 12x6 fuel tanks
+Patch_Notes_Content=- Added 12 wide strut
+Patch_Notes_Content=- Added 2 and 4 high fairing sections
+Patch_Notes_Content=- Added big fairing nosecone
+Patch_Notes_Content=- New model for every single engine
+Patch_Notes_Content=- Improved flame effects
+Patch_Notes_Content=- New solar panels texture
+Patch_Notes_Content=- Improved parachutes model
+Patch_Notes_Content=</color>
+Patch_Notes_Content=
+Patch_Notes_Content=SKINS:<color=grey>
+Patch_Notes_Content=- New skins system that combines colors and shapes
+Patch_Notes_Content=- All skins for every fuel tanks
+Patch_Notes_Content=- New gray, orange, stripes and metal textures
+Patch_Notes_Content=- Added skins to fairings, nosecones and separators
+Patch_Notes_Content=</color>
+Patch_Notes_Content=
+Patch_Notes_Content=GAME:<color=grey>
+Patch_Notes_Content=- Improved part clicking, part on top is now always the one that gets clicked
+Patch_Notes_Content=- Added revert to launch and revert to build
+Patch_Notes_Content=- Improved fuel transfer
+Patch_Notes_Content=- Added horizontal/vertical velocity indicators
+Patch_Notes_Content=- Added achievements for lower/upper atmosphere, high/low/capture orbit and crashes
+Patch_Notes_Content=- Reduced Phobos and Deimos diameter to a more realistic size
+Patch_Notes_Content=</color>
+Patch_Notes_Content=
+Patch_Notes_Content=AERODYNAMICS:<color=grey>
+Patch_Notes_Content=- Completely new aerodynamics system, drag now only applies to exposed surfaces
+Patch_Notes_Content=(Will be easier to visualize once reentry is added)
+Patch_Notes_Content=</color>
+Patch_Notes_Content=
+Patch_Notes_Content=MAP:<color=grey>
+Patch_Notes_Content=- New cleaner visual design
+Patch_Notes_Content=- New smooth animations
+Patch_Notes_Content=- High detail terrain in map mode
+Patch_Notes_Content=</color>
+Patch_Notes_Content=
+Patch_Notes_Content=NAVIGATION:<color=grey>
+Patch_Notes_Content=- Added a completely new navigation system, select a destination and an optimal trajectory to an encounter will be automatically calculated
+Patch_Notes_Content=</color>
+Patch_Notes_Content=
+Patch_Notes_Content=MENUS:<color=grey>
+Patch_Notes_Content=- Reworked touch input system, this massively improved the touch experience
+Patch_Notes_Content=- Dark UI
+Patch_Notes_Content=- Translucent UI
+Patch_Notes_Content=- More responsive buttons
+Patch_Notes_Content=- Opening any menu pauses game
+Patch_Notes_Content=- New end mission menu
+Patch_Notes_Content=- Added roadmap and patch notes
+Patch_Notes_Content=- Settings are now accessible from any scene
+Patch_Notes_Content=- Added renaming and reordering to load menu
+Patch_Notes_Content=- Added load screens
+Patch_Notes_Content=</color>
+Patch_Notes_Content=
+Patch_Notes_Content=TRANSLATIONS:<color=grey>
+Patch_Notes_Content=- Added translations
+Patch_Notes_Content=- Added translations data folder that allows you to easily create custom translations
+Patch_Notes_Content=More languages coming soon
+Patch_Notes_Content=</color>
+Patch_Notes_Content=
+Patch_Notes_Content=GRAPHICS:<color=grey>
+Patch_Notes_Content=- New star background
+Patch_Notes_Content=- New part lighting system
+Patch_Notes_Content=- New part render order system (no more depth glitches)
+Patch_Notes_Content=</color>
+Patch_Notes_Content=
+Patch_Notes_Content=MUSIC:<color=grey>
+Patch_Notes_Content=- Added 3 new music tracks
+Patch_Notes_Content=Depths of space, Space whales, Long journey
+Patch_Notes_Content=</color>
+Patch_Notes_Content=
+Patch_Notes_Content=PURCHASES:<color=grey>
+Patch_Notes_Content=- Added option to purchase specific expansions
+Patch_Notes_Content=- Added expansions bundle
+Patch_Notes_Content=- Added prices in local currency
+Patch_Notes_Content=</color>
+Patch_Notes_Content=
+Patch_Notes_Content=PERFORMANCE:<color=grey>
+Patch_Notes_Content=- Improved performance of big rockets by 2-3x
+Patch_Notes_Content=- Reduced startup time by 5x
+Patch_Notes_Content=Expect more performance improvements in the future
+Patch_Notes_Content=</color>
+Patch_Notes_Content=
+Patch_Notes_Content=PLANET EDITING:<color=grey>
+Patch_Notes_Content=- Each world can have a different set of custom planets
+Patch_Notes_Content=- Added custom heightmaps folder
+Patch_Notes_Content=- Textures and heightmaps now use width/height for sizing
+Patch_Notes_Content=- Detail levels are now automatically generated
+Patch_Notes_Content=- Game now exports and example solar system file
+Patch_Notes_Content=- Game now retains default solar system
+Patch_Notes_Content=- Timewarp max and zoom distance now automatically scales with planet sizes
+Patch_Notes_Content=- Added an extensive planet editing debug system
+Patch_Notes_Content=</color>
+Patch_Notes_Content=
+Patch_Notes_Content=BLUEPRINT EDITING:<color=grey>
+Patch_Notes_Content=Blueprint editing is not an officially supported feature, but this update still bring some exciting changes that will benefit it
+Patch_Notes_Content=- Some parts now have width/height/size variables, part properties automatically scale with them
+Patch_Notes_Content=- Part pivots are now always top center or bottom center
+Patch_Notes_Content=</color>
+Patch_Notes_Content=
+Patch_Notes_Content=BUG FIXES:<color=grey>
+Patch_Notes_Content=- Fixed music not playing
+Patch_Notes_Content=- Fixed rocket teleportation
+Patch_Notes_Content=- Fixed falling through ground
+Patch_Notes_Content=- Fixed aerodynamics not working
+Patch_Notes_Content=- Fixed arrowkeys disappearing
+Patch_Notes_Content=- Fixed faster fuel drain bug
+Patch_Notes_Content=- Fixed mercury texture
+Patch_Notes_Content=- Fixed RCS using electricity
+Patch_Notes_Content=- Fixed 45+ other smaller bugs
+Patch_Notes_Content=</color>
+
+[Roadmap]
+Roadmap_Content=Version 1.51
+Roadmap_Content=<color=grey>Staging</color>
+Roadmap_Content=
+Roadmap_Content=Version 1.52
+Roadmap_Content=<color=grey>Tutorials</color>
+Roadmap_Content=
+Roadmap_Content=Version 1.53
+Roadmap_Content=<color=grey>Reentry</color>
+Roadmap_Content=
+Roadmap_Content=Version 1.54
+Roadmap_Content=<color=grey>Visual effects, particles and sounds</color>
+Roadmap_Content=
+Roadmap_Content=Version 1.55
+Roadmap_Content=<color=grey>Solid rocket boosters</color>
+Roadmap_Content=
+Roadmap_Content=Version 1.6
+Roadmap_Content=<color=grey>Astronauts</color>
+Roadmap_Content=
+Roadmap_Content=Version 1.7
+Roadmap_Content=<color=grey>Career</color>
+Roadmap_Content=
+Roadmap_Content=Version 1.8
+Roadmap_Content=<color=grey>Outer planets</color>
+Roadmap_Content=
+Roadmap_Content=Electric system:
+Roadmap_Content=<color=grey>The entire electric system will get a complete overhaul in the future, mostly likely with features such as timewarp during ion engine burns and more uses for electricity</color>
+Roadmap_Content=
+Roadmap_Content=
+Roadmap_Content=Please keep in mind that plans might change
+
+[Credits]
+Credits_Text=Štefo Mai Morojna
+Credits_Text=<Size=55> Designer - Programmer - Artist </size>
+Credits_Text=
+Credits_Text=Jordi van der Molen
+Credits_Text=<Size=55> Programmer </size>
+Credits_Text=
+Credits_Text=Chris Christo
+Credits_Text=<Size=55> Programmer </size>
+Credits_Text=
+Credits_Text=Davi Vasc
+Credits_Text=<Size=55> Composer </size>
+Credits_Text=
+Credits_Text=Ashton Mills
+Credits_Text=<size=55> Composer </size>
